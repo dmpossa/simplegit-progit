@@ -1,5 +1,8 @@
 # a super simple example class to use git in ruby
-# vai dar conflito :) 
+# commit #1
+# commit #2
+# solved merge
+
 class SimpleGit
   
   def initialize(git_dir = '.')
