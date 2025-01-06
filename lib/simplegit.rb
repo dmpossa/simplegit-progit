@@ -1,5 +1,6 @@
 # a super simple example class to use git in ruby
 #teste 1 do git em fork
+#teste 2 do git em fork
 class SimpleGit
   
   def initialize(git_dir = '.')
