@@ -1,6 +1,7 @@
 # a super simple example class to use git in ruby
 # commit #1
 # commit #2
+# commit #3
 # solved merge
 
 class SimpleGit
