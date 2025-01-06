@@ -3,7 +3,8 @@
 # commit #2
 # commit #3
 # solved merge!
-
+                                
+         
 class SimpleGit
   
   def initialize(git_dir = '.')
