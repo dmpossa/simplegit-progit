@@ -2,7 +2,7 @@
 # commit #1
 # commit #2
 # commit #3
-# solved merge
+# solved merge!
 
 class SimpleGit
   
